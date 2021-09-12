@@ -1236,7 +1236,7 @@ MINER_TOP_HEADER: '§6§l⤊ §4§lТ§c§lОП §4§lШ§c§lАХТЕРОВ'
 WOODCUTTER_TOP_HEADER: '§6§l⤊ §4§lТ§c§lОП §4§lЛ§c§lЕСОРУБОВ'
 #LOBBY
 LOBBY_BOARD_NAME: '§c§lUnix§6§lLand'
-LOBBY_BOARD_DATE_LINE: '§7'
+LOBBY_BOARD_DATE_LINE: '   §7'
 LOBBY_BOARD_GROUP_LINE: ' §7Группа: '
 LOBBY_BOARD_PROFILE_LINE: ' §4§lПРОФИЛЬ:'
 LOBBY_BOARD_LEVEL_LINE: ' §c╔ §7Уровень: §4'
