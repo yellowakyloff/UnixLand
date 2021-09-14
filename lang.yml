@@ -1232,8 +1232,8 @@ JOBS_MINE_BOARD_BOOSTER_LINE: '§c╔§7 Бустер: §4x'
 JOBS_MINE_BOARD_COMBO_LINE: '§c╚§7 Комбо: §4x'
 JOBS_MINE_BOARD_SITE_LINE: '§c§l↳ §7Сайт: §4§lwww.UnixLand.ru'
 
-MINER_TOP_HEADER: '§6§l⤊ §4§lТ§c§lОП §4§lШ§c§lАХТЕРОВ'
-WOODCUTTER_TOP_HEADER: '§6§l⤊ §4§lТ§c§lОП §4§lЛ§c§lЕСОРУБОВ'
+MINER_TOP_HEADER: '§6§l§n⤊§4§l Т§c§lОП §4§lШ§c§lАХТЕРОВ'
+WOODCUTTER_TOP_HEADER: '§6§l§n⤊§4§l Т§c§lОП §4§lЛ§c§lЕСОРУБОВ'
 #LOBBY
 LOBBY_BOARD_NAME: '§c§lUnix§6§lLand'
 LOBBY_BOARD_DATE_LINE: ' §7'
